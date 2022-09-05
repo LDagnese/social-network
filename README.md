@@ -65,7 +65,7 @@ The following animation shows the POST and DELETE routes for a user’s friend l
     createdAt
         * Date
         * Set default value to the current timestamp
-        *Use a getter method to format the timestamp on query
+        * Use a getter method to format the timestamp on query  
     username (The user that created this thought)
         * String
         * Required
